@@ -1,0 +1,27 @@
+{
+  "name": "ea-automate-kleasing",
+  "version": "1.0.0",
+  "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
+  "main": "index.js",
+  "scripts": {
+    "show-report": "playwright show-report ./playwright-results/test-report",
+    "test-regression": "playwright test --grep @regression",
+    "test-kl-selfapply": "playwright test --grep @kl-selfapply",
+    "test-kl-koknewcar": "playwright test --grep @kl-koknewcar",
+    "test-kl-kokusedcar": "playwright test --grep @kl-kokusedcar"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.digioth.dev/enterprise-application/ea-automate-kleasing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.2.0",
+    "date-fns": "^4.4.0",
+    "dotenv": "^16.6.1"
+  }
+}

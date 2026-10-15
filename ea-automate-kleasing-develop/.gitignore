@@ -1,0 +1,8 @@
+# in Lark https://digio-thailand.sg.larksuite.com/drive/folder/KL8gffQqVlHs4cdG5Gnl5nhrgVb?from=from_copylink
+.env
+
+# Playwright
+node_modules/
+/results/
+playwright/.auth
+playwright-results/
