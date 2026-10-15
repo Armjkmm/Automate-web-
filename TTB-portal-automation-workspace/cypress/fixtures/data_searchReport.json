@@ -1,0 +1,25 @@
+{
+    "startDate_notFound": "08/02/2025",
+    "endDate_notFound": "09/02/2025",
+    "status_notFound": "FAILED",
+    "year_notFound": "2018",
+
+    "startDate": "03/02/2025",
+    "endDate": "14/02/2025",
+    "startDate_reportRequest": "01/05/2024",
+    "endDate_reportRequest": "01/10/2024",
+    "status": "Expired",
+    "year": "2022",
+
+    "report_transaction": "Sale Transaction",
+    "report_merchant": "Merchant Register",
+    "report_qr": "QR Request",
+    "report_staff": "Staff Report",
+    
+    "fileName_transaction": "Sale Transaction",
+    "fileName_merchant": "Merchant Register",
+    "fileName_qr": "QR Request",
+    "fileName_staff": "Staff Report",
+    "fileName_summary": "transaction summary report "
+  }
+  

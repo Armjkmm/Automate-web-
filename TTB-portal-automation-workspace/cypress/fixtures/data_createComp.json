@@ -1,0 +1,20 @@
+{
+    "billerID": "010753700001733",
+    "prefix": "Q045",
+
+    "prefix_notFound": "0000",
+    "prefix_dup": "Q148",
+
+    "category": "0958 กิจกรรมไปรษณีย์และการรับส่งพัสดุภัณฑ์ของรัฐ",
+    "relation": "Head Company",
+    "settlement": "#NORMAL",
+    "address": "create ",
+    "province": "เชียงใหม่",
+    "city": "เมือง",
+    "postcode": "12345",
+    "phone": "0897654321",
+
+    "email_invalid": "automate",
+    "email": "automate@digio.co.th",
+    "role": "Owner"
+}

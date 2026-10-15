@@ -1,0 +1,23 @@
+{
+  "name": "ttb-mobile-automation-workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "robot:ios": "venv/bin/python -m robot -d results/ios/$(date +%Y-%m-%d) --variable PLATFORM:ios tests/",
+    "robot:android": "venv/bin/python -m robot -d results/android/$(date +%Y-%m-%d) --variable PLATFORM:android tests/",
+    "robot:ios-owner": "venv/bin/python -m robot -d results/ios/$(date +%Y-%m-%d) --variable PLATFORM:ios tests/owner/",
+    "robot:ios-admin": "venv/bin/python -m robot -d results/ios/$(date +%Y-%m-%d) --variable PLATFORM:ios tests/admin/",
+    "robot:ios-staff": "venv/bin/python -m robot -d results/ios/$(date +%Y-%m-%d) --variable PLATFORM:ios tests/staff/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "appium": "^3.1.2",
+    "appium-doctor": "^1.16.2",
+    "appium-uiautomator2-driver": "^6.7.0",
+    "appium-xcuitest-driver": "^10.11.0"
+  }
+}

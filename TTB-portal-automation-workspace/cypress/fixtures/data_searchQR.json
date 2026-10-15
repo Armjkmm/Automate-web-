@@ -1,0 +1,17 @@
+{
+    "shop_notFound": "helloCypress",
+    "qr_notFound": "005500",
+    "startDate_notFound": "08/02/2025",
+    "endDate_notFound": "09/02/2025",
+    "status_notFound": "CANCEL",
+
+    "shop": "บริษัท อาร์เอส จำกัด",
+    "qr": "000403",
+    "startDate": "20/09/2024",
+    "endDate": "30/09/2024",
+    "status": "CLOSE",
+    "fileName": "ttb_QR_code",
+
+    "status_pending": "PENDING"
+
+  }

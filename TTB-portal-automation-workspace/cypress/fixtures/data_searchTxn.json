@@ -1,0 +1,34 @@
+{
+    "txnID_notFound": "ZDGOE2502080945555EU",
+    "billerID_notFound": "010753700001777",
+    "prefixNo_notFound": "AA77",
+    "MID_notFound": "862840649499999",
+    "TID_notFound": "86235555",
+    "startDate_notFound": "08/02/2025",
+    "endDate_notFound": "09/02/2025",
+    "statusCash_notFound": "VOIDED",
+    "status_notFound": "Cancelled",
+
+    "txnIDCash": "25021009291786284939",
+    "txnID": "SDGO862840718602774",
+    "billerID": "010753700001716",
+    "prefixNo": "A067",
+    "MID": "862840718602774",
+    "TID": "86284939",
+    "startDate": "03/02/2025",
+    "endDate": "14/02/2025",
+    "statusCash": "APPROVED",
+    "status": "Success",
+    "status_cancel": "Cancelled",
+    "status_successVoid": "Successfully Voided",
+    "status_failVoid": "Failed to Void",
+    "status_pendingVoid": "Pending to Void",
+
+    "statusTH": "รายการสำเร็จ",
+    "statusTH_cancel": "รายการถูกยกเลิก",
+    "statusTH_successVoid": "รายการคืนเงินสำเร็จ",
+    "statusTH_failVoid": "รายการคืนเงินไม่สำเร็จ",
+    "statusTH_pendingVoid": "รออนุมัติรายการคืนเงิน",
+
+    "fileName": "CashTransaction"
+  }

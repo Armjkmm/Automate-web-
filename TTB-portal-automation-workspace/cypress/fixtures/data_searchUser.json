@@ -1,0 +1,18 @@
+{
+    "name_notFound": "helloCypress",
+    "email_notFound": "hello@cypress.io",
+    "mobile_notFound": "0987654444",
+    "startDate_notFound": "08/02/2025",
+    "endDate_notFound": "09/02/2025",
+    "status_notFound": "SUSPENDED",
+
+    "name": "Box shop",
+    "email": "star@mail.com",
+    "mobile": "0896642855",
+    "startDate": "03/02/2025",
+    "endDate": "14/02/2025",
+    "status": "ACTIVE",
+    "fileName": "ttb_QR_code"
+
+  }
+  
